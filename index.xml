@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Emanuel Diogo</title>
+    <link>https://ejdiogo.github.io/ejdiogo.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Emanuel Diogo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Aug 2019 10:58:08 -0400</lastBuildDate><atom:link href="https://ejdiogo.github.io/ejdiogo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Real State Analysis for CABA, Argentina </title>
+      <link>https://ejdiogo.github.io/ejdiogo.github.io/post/chapter-1/</link>
+      <pubDate>Fri, 30 Aug 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://ejdiogo.github.io/ejdiogo.github.io/post/chapter-1/</guid>
+      <description>Loading Properati published DATASET Preprocessing data Outliers management Preprocessing data Neighborhood analysis based on houses/apartment ratio Neighborhood analysis based on price per m2 Graphic analysis by plotting     Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ejdiogo.github.io/ejdiogo.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ejdiogo.github.io/ejdiogo.github.io/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
